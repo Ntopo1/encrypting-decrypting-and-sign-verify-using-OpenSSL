@@ -1,6 +1,6 @@
 <h1> Creating/inspecting key pair, encrypting/decrypting and sign/verify using OpenSSL </h1>
 <h2>Description</h2>
-<p>In this lab, I will create annd inspect key pairs, encrypt and decrypt, sign and verify using OpenSSL.</p>
+<p>In this lab, I will create and inspect key pairs, encrypt and decrypt, sign and verify using OpenSSL.</p>
 <br />
 <br />
 <h2>Utilities Used</h2>
